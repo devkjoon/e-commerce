@@ -41,7 +41,6 @@ router.get('/:id', async (req, res) => {
   } catch (err) {
     res.status(500).json(err);
   }
-
 });
 
 router.post('/', async (req, res) => {
@@ -85,7 +84,7 @@ router.delete('/:id', async (req, res) => {
       },
     });
 
-    if (!categoryData) {
+    if(!categoryData) {
       res.status(404).json({ message: 'No category found by that ID!' });
       return;
     }
