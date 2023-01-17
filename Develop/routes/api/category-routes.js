@@ -11,6 +11,12 @@ router.get('/', async (req, res) => {
       include: [{ model: Product }],
       attributes: ['id', 'product_name', 'price', 'stock', 'category_id']
     });
+
+    if (!categoryData) {
+      res.status(404).json({ message: 'No categories found!' });
+      return;
+    }
+
     res.status(200).json(categoryData);
   } catch (err) {
     res.status(500).json(err);
@@ -27,7 +33,7 @@ router.get('/:id', async (req, res) => {
     });
 
     if (!categoryData) {
-      res.status(404).json({ message: 'No product found by that ID! '});
+      res.status(404).json({ message: 'No categories found by that ID! '});
       return;
     }
 
