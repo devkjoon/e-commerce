@@ -44,11 +44,10 @@ A mySQL database and application to manage a company's catalog. With this applic
 
 ## Preview
 
-- Application Prep
-[mySQL Source.webm](https://user-images.githubusercontent.com/114375310/214337166-1f6e060f-95cc-4e9d-8d4a-411f8123da10.webm)
-
-- Category Routes
-[Categories Requests.webm](https://user-images.githubusercontent.com/114375310/214340983-98c301a3-be51-4dcc-8211-48b22c9fda6d.webm)
+### Application Prep
+[mySQL Source.webm](https://user-images.githubusercontent.com/114375310/214341588-f7b249f3-d0fd-4e84-90d8-a722ce6da101.webm)
+### Category Routes
+[Categories Requests.webm](https://user-images.githubusercontent.com/114375310/214341654-1158a2d6-655f-472f-9755-58f0034fab16.webm)
 
 ## License
 
