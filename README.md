@@ -22,7 +22,11 @@ A mySQL database and application to manage a company's catalog. With this applic
 
 ## Installation
 
--
+- Open integrated terminal through `schema.sql`, then `mysql -u root -p`
+- Enter the password. In this case it would be `password`
+- Source the `schema.sql` file
+- Open integrated terminal through `server.js`
+- Start application by executing `nodemon server.js`
 
 ## Usage
 
