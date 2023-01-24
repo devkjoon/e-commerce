@@ -48,6 +48,8 @@ A mySQL database and application to manage a company's catalog. With this applic
 [mySQL Source.webm](https://user-images.githubusercontent.com/114375310/214341588-f7b249f3-d0fd-4e84-90d8-a722ce6da101.webm)
 ### Category Routes
 [Categories Requests.webm](https://user-images.githubusercontent.com/114375310/214341654-1158a2d6-655f-472f-9755-58f0034fab16.webm)
+### Product Routes
+[Product Routes.webm](https://user-images.githubusercontent.com/114375310/214345973-6de9b352-f53c-446d-af32-68e6b83c35b5.webm)
 ### Tag Routes
 [Tag Routes.webm](https://user-images.githubusercontent.com/114375310/214342216-4536c24e-a2d2-411c-974e-edcba0ee3cc3.webm)
 
